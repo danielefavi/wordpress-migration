@@ -60,7 +60,7 @@ $errorFormStr = check_post_request();
         <button type="submit" name="sbmButton" value="process"
             onclick="return confirm('Are you sure to run the migration?')">
 
-            RUN MIGRATION
+            RUN THE MIGRATION
         </button>
     </form>
 <?php
